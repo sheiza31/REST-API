@@ -95,11 +95,3 @@ API ini menggunakan **JWT Auth** untuk autentikasi. Berikut beberapa endpoint pe
 
 ## 🔥 Testing API
 Gunakan **Postman** atau **cURL** untuk menguji endpoint yang telah dibuat.
-
-## 🤝 Kontribusi
-Jika ingin berkontribusi, silakan fork repository ini dan buat pull request.
-
----
-
-🔥 Selamat belajar dan semoga sukses dalam menguasai **REST API dengan Laravel dan JWT Auth**! 🚀
-
